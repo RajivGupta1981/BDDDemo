@@ -1,0 +1,8 @@
+Feature:  FB
+
+  Scenario: Post a video on user wall
+    Given User should br logged in and should be present at its own wall
+    When  User supply the youtube link in the text box
+    And Click on the post button
+    Then Video should get posted on the user wall
+    And The video should have proper thumbnail
