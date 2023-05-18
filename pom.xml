@@ -72,18 +72,6 @@
             <version>7.11.1</version>
             <scope>compile</scope>
         </dependency>
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-parent</artifactId>
-            <version>4.1.1</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-jvm</artifactId>
-            <version>7.11.1</version>
-            <scope>compile</scope>
-        </dependency>
 
 
     </dependencies>
